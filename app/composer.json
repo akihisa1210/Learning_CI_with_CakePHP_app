@@ -1,0 +1,12 @@
+{
+    "name": "learning_ci_with_cakephp_app/blogapp",
+    "authors": [
+        {
+            "name": "akihisa1210",
+            "email": "19635263+akihisa1210@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "cakephp/cakephp": "3.6.*"
+    }
+}
